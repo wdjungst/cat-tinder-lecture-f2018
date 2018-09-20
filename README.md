@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* bundle
 
-Things you may want to cover:
+* db:drop db:create db:migrate
 
-* Ruby version
+* cd client && yarn start 
 
-* System dependencies
+* rails s -p 3001
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
